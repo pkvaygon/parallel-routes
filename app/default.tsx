@@ -3,7 +3,7 @@ export default function Page() {
 
   return (
     <main>
-      Non App page
+      Default Main Page
     </main>
   );
 }
